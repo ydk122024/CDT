@@ -59,8 +59,8 @@ data
 * Please access [here](https://github.com/BunsenFeng/FactKB) for testing FACTKB metrics.   
 ```sh
 llm_models
-├── llama2-7b-base-cluster32-4moe-fact-adapter-hf # Hallucinatory adaptor
-├── llama2-7b-base-cluster32-4moe-halluc-adapter-hf # Truthful adaptor
+├── llama2-7b-base-cluster32-4moe-fact-adapter-hf # Truthful adaptor
+├── llama2-7b-base-cluster32-4moe-halluc-adapter-hf # Hallucinatory adaptor
 ├── FactKB  # Test FactKB metrics
 ├── roberta-large  # Test BERTScore metrics
 
