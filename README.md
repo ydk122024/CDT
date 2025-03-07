@@ -54,7 +54,9 @@ data
 ## Models
 * Please access [here](https://huggingface.co/meta-llama) for the original llama models.
 * The MoE-LoRA-based adaptors are used to collaborate with the base models to obtain the corresponding comparators.
+* Please access [here](https://github.com/Tiiiger/bert_score) for testing BERTScore metrics.
 * Please access [here](https://github.com/tagoyal/dae-factuality) for testing DAE metrics.   
+* Please access [here](https://github.com/BunsenFeng/FactKB) for testing FACTKB metrics.   
 ```sh
 llm_models
 ├── llama2-7b-base-cluster32-4moe-fact-adapter-hf # Hallucinatory adaptor
